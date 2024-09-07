@@ -1,4 +1,4 @@
-import 'package:body_exercise_1/drawer.dart';
+
 import 'package:body_exercise_1/exercise_screen/diet_cart.dart';
 import 'package:body_exercise_1/exercise_screen/exercise.dart';
 import 'package:body_exercise_1/loginpage.dart';
